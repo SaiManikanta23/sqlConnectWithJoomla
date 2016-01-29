@@ -15,3 +15,4 @@ $db->setQuery($query);
 $result = $db->loadRow();
 print_r($result);
 
+?>
